@@ -1,7 +1,4 @@
 default: styles/application.scss
 contrast: styles/contrast.scss
 mastodon-light: styles/mastodon-light.scss
-dark: styles/dark.scss
-light: styles/light.scss
-cybre-light: styles/cybre-light.scss
-cybre-dark: styles/cybre.scss
+yarr: styles/yarr.scss
